@@ -12,7 +12,7 @@
 
 ## Intriguing question:
 
-Does staying off-campus or on-campus influence a person's self-rated experience of the MDS program ?
+Does staying off-campus or on-campus influence a person's self-rated experience of the MDS program?
 
 ## Plan of statistical analysis
 
