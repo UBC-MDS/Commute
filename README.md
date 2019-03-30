@@ -19,7 +19,7 @@ group means are different. Tests are conducted at 5% significance level.
 
 The following are other questions we will include in our survey to identify confounding variables:
 
-- *How many minutes does your commute take?*  We are including this question because a student may have chosen to live on campus to avoid a long commute.
+- *How many minutes does your commute take one-way?*  We are including this question because a student may have chosen to live on campus to avoid a long commute.
 - *How many hours of sleep a night do you usually get?*  The amount of sleep a student gets may affect both the student's choice of living on or off-campus as well as how happy with MDS.  For example, someone that usually gets fewer hours may have decided that they have more time for commuting.  Also, the amount of sleep may affect their stress levels and how they feel about MDS.
 - *How many years of work experience do you have?*  The student's years of previous work experience may affect where they decide to live.  One possibility is that a student with many years of work experience may not want to live on-campus with a bunch of undergrads.  The years of work experience may also affect their satisfaction with MDS since their work experience may have prepared students for MDS.
 - *Are you staying with family?*  Staying with family affects whether a student lives on or off-campus and also affects satisfaction with MDS since family could provide a support network.
