@@ -36,5 +36,5 @@ Here are some aspects of [UBC Office of Research Ethics document on Using Online
 
 - We will ensure that any information we collect is stored only in Canada
 - We will ensure not to collect any personally identifiable information such as SIN number, Name, Student Number or any kind of indirectly identifiable information that could be used for personal identification in combination with other variables.
-- We will need to collect some personal opinion on living on or off-campus which alone do not constitute “personal information” for the purposes of BC FIPPA.
+- We will need to collect some personal opinions on living on or off-campus which alone do not constitute “personal information” for the purposes of BC FIPPA.
 - Our survey is a basic one and therefore, we will use a cover letter which will include: the study title, contact information of the PI, a short description of the study, risks and benefits, limits to confidentiality, a statement that participation is optional, and the UBC Research Participant Complaint Line text.
