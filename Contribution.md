@@ -21,7 +21,7 @@ Below is the list of administrators of the Repository:
 | Aditya Sharma  | [adityashrm21](https://github.com/adityashrm21)  |
 |  Birinder Singh   | [birinder1469](https://github.com/Birinder1469)   |
 |  Daniel Lin   |  [danielglin](https://github.com/danielglin)  |
-|  Yenan Zhang   | [YenanZ](https://github.com/danielglin/YenanZ)   |
+|  Yenan Zhang   | [YenanZ](https://github.com/YenanZ)   |
 
 
 ### Commit messages
