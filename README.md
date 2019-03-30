@@ -7,6 +7,9 @@
 |  Daniel Lin   |  [danielglin](https://github.com/danielglin)  |
 |  Yenan Zhang   |    |
 
+## Intriguing question:
+
+Does staying off-campus or on-campus influence a person's self-rated experience of the MDS program?
 
 ## Plan of statistical analysis
 
