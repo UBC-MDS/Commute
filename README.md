@@ -2,10 +2,10 @@
 
 | Name  |  GitHub Username |
 |---|---|
-| Aditya Sharma  |   |
+| Aditya Sharma  | [adityashrm21](https://github.com/adityashrm21)  |
 |  Birinder Singh   | [birinder1469](https://github.com/Birinder1469)   |
 |  Daniel Lin   |  [danielglin](https://github.com/danielglin)  |
-|  Yenan Zhang   |    |
+|  Yenan Zhang   |  [YenanZ](https://github.com/YenanZ)  |
 
 ## Intriguing question:
 
@@ -29,3 +29,12 @@ The following are other questions we will include in our survey to identify conf
 - *How many years have you lived in the Vancouver area?*  Familiarity with the Vancouver area could help students be aware of off-campus housing.  Being used to the area may also make handling the MDS program more easy since those students don't have to adjust to living in a new area on top of dealing with the coursework.
 - *How many hours per week do you spend on MDS coursework?*  A student that spends lots of time on coursework may have decided to live on-campus to have more time for schoolwork.  The type of student that is devoted to coursework may also get more from the program.
 - *What percentage of networking events have you been able to attend?*  If a student is really focused on finding a job, they may have chosen to live in an area with lots of companies.  A student's focus on job searching could also affect their MDS satisfaction if they feel the program prepares them with the necessary skills.
+
+### Research Ethics Practices
+
+Here are some aspects of [UBC Office of Research Ethics document on Using Online Surveys](https://ethics.research.ubc.ca/sites/ore.ubc.ca/files/documents/Online_Survey-GN.pdf) relevant to our survey:
+
+- We will ensure that any information we collect is stored only in Canada
+- We will ensure not to collect any personally identifiable information such as SIN number, Name, Student Number or any kind of indirectly identifiable information that could be used for personal identification in combination with other variables.
+- We will need to collect some personal opinions on living on or off-campus which alone do not constitute “personal information” for the purposes of BC FIPPA.
+- Our survey is a basic one and therefore, we will use a cover letter which will include: the study title, contact information of the PI, a short description of the study, risks and benefits, limits to confidentiality, a statement that participation is optional, and the UBC Research Participant Complaint Line text.
