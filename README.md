@@ -7,16 +7,23 @@
 |  Daniel Lin   |  [danielglin](https://github.com/danielglin)  |
 |  Yenan Zhang   |  [YenanZ](https://github.com/YenanZ)  |
 
+## Link to Survey
+https://ubc.ca1.qualtrics.com/jfe/form/SV_dopfxNbvI7DxFJP
+
+The data collected from the survey is here: https://github.ubc.ca/MDS-2018-19/commute-analysis/blob/readme_links/data/commute.csv
+
 ## Intriguing question:
 
-Does staying off-campus or on-campus influence a person's self-rated experience of the MDS program?
+Is a higher commute time associated with a lower self-rated experience of the MDS program?
 
 ## Plan of statistical analysis
 
-In this survey, we would test whether the average MDS enjoyment level for students living on and off-campus are different using hypothesis testing.
+In this survey, we would test whether the average MDS enjoyment level for students living on and off-campus are different using hypothesis testing with regression.
 
 Our null hypothesis is that there are no difference in enjoyment level between the two groups, our alternative hypothesis is that the two
 group means are different. Tests are conducted at 5% significance level.
+
+Another part of our analysis is to summarize the survey results by looking at the ratings as categorical variables.
 
 ## Other survey questions to identify confounding variables
 
@@ -38,3 +45,11 @@ Here are some aspects of [UBC Office of Research Ethics document on Using Online
 - We will ensure not to collect any personally identifiable information such as SIN number, Name, Student Number or any kind of indirectly identifiable information that could be used for personal identification in combination with other variables.
 - We will need to collect some personal opinions on living on or off-campus which alone do not constitute “personal information” for the purposes of BC FIPPA.
 - Our survey is a basic one and therefore, we will use a cover letter which will include: the study title, contact information of the PI, a short description of the study, risks and benefits, limits to confidentiality, a statement that participation is optional, and the UBC Research Participant Complaint Line text.
+
+### EDA of Survey Responses
+
+Our EDA of the survey responses is [here](https://github.ubc.ca/MDS-2018-19/commute-analysis/blob/readme_links/Commute_Analysis.md).
+
+### Addressing Feedback
+
+We have addressed the Milestone 1 feedback by updating this README and by updating the survey questions.  The updates are documented in [this issue](https://github.ubc.ca/MDS-2018-19/commute-analysis/issues/3).
