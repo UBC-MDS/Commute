@@ -7,10 +7,15 @@
 |  Daniel Lin   |  [danielglin](https://github.com/danielglin)  |
 |  Yenan Zhang   |  [YenanZ](https://github.com/YenanZ)  |
 
-## Link to Survey
-https://ubc.ca1.qualtrics.com/jfe/form/SV_dopfxNbvI7DxFJP
+## Project Progress
 
-The data collected from the survey is here: https://github.ubc.ca/MDS-2018-19/commute-analysis/blob/readme_links/data/commute.csv
+| Milestones   |  Tasks |
+|---|---|
+| [Survey](https://ubc.ca1.qualtrics.com/jfe/form/SV_dopfxNbvI7DxFJP)  | Survey  |
+| [Data](https://github.ubc.ca/MDS-2018-19/commute-analysis/blob/readme_links/data/commute.csv)  | Data  |
+|  [Milestone1](https://github.com/UBC-MDS/Commute/tree/v0.1)   | Milestone 1 Proposal   |
+|  [Milestone2](https://github.ubc.ca/MDS-2018-19/commute-analysis/tree/v2.0)   | Milestone 2 EDA  |
+|  [Milestone3](https://github.ubc.ca/MDS-2018-19/commute-analysis/blob/master/Report.md)   | Milestone 3 Report  |
 
 ## Intriguing question:
 
