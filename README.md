@@ -58,3 +58,7 @@ Our EDA of the survey responses is [here](https://github.ubc.ca/MDS-2018-19/comm
 ### Addressing Feedback
 
 We have addressed the Milestone 1 feedback by updating this README and by updating the survey questions.  The updates are documented in [this issue](https://github.ubc.ca/MDS-2018-19/commute-analysis/issues/3).
+
+-------
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
